@@ -2,8 +2,8 @@ url: https://hanfang.github.io
 # baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Han Fang
-email: hanfang.cshl@gmail.com
+title: Shanshan Li
+email: shaniavina@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Han Fang
+- name: Shanshan Li
   pic: 1
-  position: PhD student @ Cold Spring Harbor Laboratory
+  position: PhD student @ Stony Brooku University and Cold Spring Harbor Laboratory
   social:
     - title: twitter
       url: #
@@ -28,18 +28,18 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/Han_Fang_
+    url: https://twitter.com/shaniavina
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://hanfang.github.io/
+    url: http://shaniavina.github.io/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 1 Bungtown Rd,
-  - line: Cold Spring Harbor, NY 11724
+  - line: John S. Toll Drive,
+  - line: Stony Brook, NY 11794
 
 # Build settings
 markdown: kramdown
