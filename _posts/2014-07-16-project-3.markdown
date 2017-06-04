@@ -4,10 +4,10 @@ subtitle: Communications in Statistics (submitted)
 layout: default
 modal-id: 3
 date: 2016-5-1
-
+img: kmeans.header.png
 thumbnail: kmeans_tn.png
 alt: image-alt
-project-date: 2016-5-1
+project-date: May 2016
 
 category: Web Development
 description: The K-means clustering method is a widely adopted clustering algorithm in data mining and pattern recognition, where the partitions are made by minimizing the total within group sum of squares based on a given set of variables. Weighted K-means clustering is an extension of the K-means method by assigning nonnegative weights to the set of variables. In this paper, we aim to obtain more meaningful and interpretable clusters by deriving the optimal variable weights for weighted K-means clustering. Specifically, we improve the weighted k-means clustering method of Huh and Lim (2009) [1] by introducing a new algorithm to obtain the globally optimal variable weights based on the Karush-Kuhn-Tucker conditions. We present the mathematical formulation for the clustering problem, derive the structural properties of the optimal weights, and implement an iteration algorithm to calculate the optimal weights.  Numerical examples on simulated and real data indicate that our method is superior in both clustering accuracy and computational efficiency.
