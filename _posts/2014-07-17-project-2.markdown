@@ -1,15 +1,16 @@
 ---
-title: Accurate de novo and transmitted indel detection in exome-capture data using microassembly
-subtitle: Nature Methods
+title: A Time-varying Partial Correlation Network Analysis of Price Change in Intraday Stock Market
+
 layout: default
 modal-id: 2
-date: 2014-10-17
-img: nm.header.png
-thumbnail: nm.tn.png
+date: 2015
+
+thumbnail: pre.tn.png
 alt: image-alt
-project-date: August 2014
-download: <a href="http://www.nature.com/nmeth/journal/v11/n10/full/nmeth.3069.html">Paper</a>
+project-date: 2015
+
 category: Web Development
-description: We present an open-source algorithm, Scalpel (http://scalpel.sourceforge.net/), which combines mapping and assembly for sensitive and specific discovery of insertions and deletions (indels). It is based on the de Bruijn graph assembly paradigm and implements an on-the-fly repeat composition analysis coupled with a self-tuning k-mer strategy to increase specificity in regions characterized by complex repeat structures.
+description: Nowadays, giant datasets are collected with lots of empirical information about the functioning of almost every field of study, at a cost much lower than a few decades ago, for instance biotechnology(McBride 2012), medical science(Groves 2013), and in particular business and economics study(Einav and Levin 2013). One can be interested in the existing linkages between the different elements that included in a collection of the dataset. And that is the reason why Network Analysis has emerged in recent years. Network Analysis is used to help interpret the hidden interconnections between different elements in large dataset. With the application of proper statistical tools, analysts can not only get the statistical results about the data, but also plot the interconnections of large multivariate time series system in a graphical representation that eases the interpretation of the real market observation. That is to say, Network Analysis allow us to construct graphs representing the reality behind those complex empirical datasets.
+
 
 ---
