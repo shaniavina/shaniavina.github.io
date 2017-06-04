@@ -1,15 +1,15 @@
 ---
-title: Reducing INDEL calling errors in whole-genome and exome sequencing data
-subtitle: Genome Medicine
+title: Estimation and detection of network variation in intraday stock market
+subtitle:  Journal of Network Theory in Finance
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: gm.header.png
-thumbnail: gm.tn.png
+date: 2016-11-18
+img: thesis.header.png
+thumbnail: thesis.tn.png
 alt: image-alt
-project-date: October 2014
-download: <a href="http://www.genomemedicine.com/content/pdf/s13073-014-0089-z.pdf">PDF</a> 
+project-date: November 2016
+
 category: Web Development
-description: In this study, we investigate sources of insertions and deletion (indel) errors and provide a guideline to effectively reduce such errors in genome sequencing. We also introduce a novel classification scheme of indels calls based off of Chi-Square scores and alternative allele coverage. You can view my presentation slides at the 2014 Biological Data Science meeting <a href="http://schatzlab.cshl.edu/presentations/2014.11.08.Indel%20Errors.pdf">here</a>. 
+description: The last few years have witnessed an exponential growth in the collection and analysis of financial market data. Investigating the interactions between the dynamics of the financial system and extracting useful information from these multivariate data streams can help us in improving our understanding of the underlying backbone in the financial market. These massive noisy data sets require the application of suitable and efficient dependency measurements for their analysis in a real-time environment. And that is why network analysis has emerged recently, which is a plausible representation helps interpret the hidden interconnection between the elements in large datasets. However, most frequently used methods in this area have certain limitations, such as the computational complexity or the assumption of a temporally invariant network. This thesis has two major purposes; firstly, to construct time-varying networks by presenting two new approaches to dynamically measure symmetric and asymmetric interactions; and secondly, to detect the structural breaks in the high dimensional time series of the financial market.
 
 ---
