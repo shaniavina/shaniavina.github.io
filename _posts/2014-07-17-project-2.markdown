@@ -3,11 +3,11 @@ title: A Time-varying Partial Correlation Network Analysis of Price Change in In
 
 layout: default
 modal-id: 2
-date: 2015
+date: 2015-11-16
 
 thumbnail: pre.tn.png
 alt: image-alt
-project-date: 2015
+project-date: 2015-11-16
 
 category: Web Development
 description: Nowadays, giant datasets are collected with lots of empirical information about the functioning of almost every field of study, at a cost much lower than a few decades ago, for instance biotechnology(McBride 2012), medical science(Groves 2013), and in particular business and economics study(Einav and Levin 2013). One can be interested in the existing linkages between the different elements that included in a collection of the dataset. And that is the reason why Network Analysis has emerged in recent years. Network Analysis is used to help interpret the hidden interconnections between different elements in large dataset. With the application of proper statistical tools, analysts can not only get the statistical results about the data, but also plot the interconnections of large multivariate time series system in a graphical representation that eases the interpretation of the real market observation. That is to say, Network Analysis allow us to construct graphs representing the reality behind those complex empirical datasets.
