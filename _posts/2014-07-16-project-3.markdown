@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2016-5-1
 img: kmeans.header.png
-thumbnail: kmeans_tn.png
+thumbnail: kmeans.tn.png
 alt: image-alt
 project-date: May 2016
 
