@@ -3,7 +3,7 @@ title: An iterative algorithm for optimal variable weighting in K-means clusteri
 subtitle: Communications in Statistics (submitted)
 layout: default
 modal-id: 3
-date: 2016
+date: 2016-5-1
 
 thumbnail: kmeans_tn.png
 alt: image-alt
