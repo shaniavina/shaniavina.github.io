@@ -3,11 +3,11 @@ title: Estimation and detection of network variation in intraday stock market
 subtitle:  Journal of Network Theory in Finance
 layout: default
 modal-id: 1
-date: 2016
+date: 2016-11-16
 
 thumbnail: thesis.tn.png
 alt: image-alt
-project-date: 2016
+project-date: 2016-11-16
 
 category: Web Development
 description: The last few years have witnessed an exponential growth in the collection and analysis of financial market data. Investigating the interactions between the dynamics of the financial system and extracting useful information from these multivariate data streams can help us in improving our understanding of the underlying backbone in the financial market. These massive noisy data sets require the application of suitable and efficient dependency measurements for their analysis in a real-time environment. And that is why network analysis has emerged recently, which is a plausible representation helps interpret the hidden interconnection between the elements in large datasets. However, most frequently used methods in this area have certain limitations, such as the computational complexity or the assumption of a temporally invariant network. This thesis has two major purposes; firstly, to construct time-varying networks by presenting two new approaches to dynamically measure symmetric and asymmetric interactions; and secondly, to detect the structural breaks in the high dimensional time series of the financial market.
